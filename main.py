@@ -113,3 +113,4 @@ if __name__ == '__main__':
     print('Воитель, Маг, Лекарь')
     char_class = choice_char_class(char_name)
     print(start_training(char_class))
+
